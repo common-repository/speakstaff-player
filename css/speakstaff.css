@@ -1,0 +1,30 @@
+.spstaSat_meta_box {}
+.spstaSat_meta_box label {
+	font-weight: 600;
+}
+.spstaSat_meta_box p {
+	margin-bottom: 0.5em;
+    margin-top: 0.3em;
+}
+.spstaSat_meta_box input[type='text'],
+.spstaSat_meta_box select {
+	width: 100%;
+}
+.ss_inputgroup {
+  margin: 15px 0 !important;
+}
+.ss_input {
+	width:49% !important;
+}
+.sprecherId {
+  float: left;
+}
+.ss_autoplay {
+  float: right;
+}
+.ss_inputgroup_item {
+  width: 49% !important;
+}
+.ss_playerwidth {
+  float: right;
+}

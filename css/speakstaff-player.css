@@ -1,0 +1,44 @@
+.speakstaffplayer{
+	width: 100%;
+	margin:0px 0px 10px 0px;	
+}
+.speakstaff_related{
+	width: 14%;
+	float:right;
+	padding-top: 2px;
+	text-align: center;
+}
+.speakstaff_playericon{
+	width:74px;
+}
+.speakstaff_narrator_img img {
+  border: 0 none;
+  border-radius: 999px;
+  float: none;
+  height: 39px;
+  width: 39px;
+  display: inline;
+}
+.speakstaffplayer iframe {
+  max-width: 84%;
+}
+.scan_go {
+  font-size: 10px;
+}
+
+/* NEW */
+.speakstaff-player {
+	min-height: 200px;
+	width: auto;
+}
+.speakstaff-preloader-area {
+	display: block;
+    margin: 80px auto 0;
+	text-align: center;
+}
+.speakstaff-preloader-area img {
+	height: 15px;
+}
+.speakstaff-preloader-area img.preloader {
+	margin-right: 20px;
+}

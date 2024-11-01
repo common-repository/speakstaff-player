@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Speakstaff Player v0.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-17 08:00:07+0000\n"
+"Last-Translator: wp_admin <mail@speakstaff.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: meta/meta-box.php:25
+#@ speakstaffSatellit
+msgid "Bindet SpeakStaff Player in den Artikel ein"
+msgstr "Bindet SpeakStaff Player in den Artikel ein"
+
+#: meta/meta-box.php:26
+#@ speakstaffSatellit
+msgid "Soundcloud-ID (aus <a href=\"https://soundcloud.com/speakstaff\" target=\"_blank\">SC iFrame</a>)"
+msgstr "Soundcloud-ID (aus <a href=\"https://soundcloud.com/speakstaff\" target=\"_blank\">SC iFrame</a>)"
+
+#: meta/meta-box.php:30
+#@ default
+msgid "QR-Shortlink (siehe <a href=\"http://speakstaff.com/themen/\" target=\"_blank\">speakstaff.com)</a>"
+msgstr ""
+
+#: meta/meta-box.php:34
+#@ speakstaffSatellit
+msgid "Sprecher-ID + URL (siehe <a target=\"_blank\" href=\"https://docs.google.com/spreadsheets/d/1EnJpt5yIdNMqH34UYMaIEAgzwv6cgcqVVVbEE_eJ_5c/\">Google Docs</a>)"
+msgstr "Sprecher-ID + URL (siehe <a target=\"_blank\" href=\"https://docs.google.com/spreadsheets/d/1EnJpt5yIdNMqH34UYMaIEAgzwv6cgcqVVVbEE_eJ_5c/\">Google Docs</a>)"
+
+#: meta/meta-box.php:41
+#@ speakstaffSatellit
+msgid "Auto-Play?"
+msgstr "Auto-Play?"
+
+#: meta/meta-box.php:43
+#@ speakstaffSatellit
+msgid "Nein1"
+msgstr "Nein1"
+
+#: meta/meta-box.php:44
+#@ speakstaffSatellit
+msgid "Ja"
+msgstr "Ja"
+
+#: meta/meta-box.php:47
+#@ speakstaffSatellit
+msgid "Farbe Play-Button"
+msgstr "Farbe Play-Button"
+
+#: meta/meta-box.php:55
+#@ speakstaffSatellit
+msgid "Player Breite"
+msgstr "Player Breite"
+
+#: meta/meta-box.php:73
+#@ speakstaffSatellit
+msgid "Player Position"
+msgstr ""
+
+#: meta/meta-box.php:78
+#@ speakstaffSatellit
+msgid "oben"
+msgstr ""
+
+#: meta/meta-box.php:79
+#@ speakstaffSatellit
+msgid "unten"
+msgstr ""
+
+#: meta/meta-box.php:80
+#@ speakstaffSatellit
+msgid "oben und unten"
+msgstr ""
+
+#: meta/meta-box.php:81
+#@ speakstaffSatellit
+msgid "per Shortcode"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: speakstaff-player.php:0
+#@ speakstaffSatellit
+msgid "Speakstaff Player"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: speakstaff-player.php:0
+#@ speakstaffSatellit
+msgid "http://speakstaff.com/"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: speakstaff-player.php:0
+#@ speakstaffSatellit
+msgid "Markus Wetzig"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: speakstaff-player.php:0
+#@ speakstaffSatellit
+msgid "http://www.pixelpoints.de"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: speakstaff-player.php:0
+#@ speakstaffSatellit
+msgid "0.12"
+msgstr ""
+
+#: speakstaff-player.php:58
+#@ speakstaffSatellit
+msgid "SpeakStaff Player"
+msgstr ""
+
+#: speakstaff-player.php:62
+#@ speakstaffSatellit
+msgid "SpeakStaff ID:"
+msgstr ""
+
+#: speakstaff-player.php:147
+#: speakstaff-player.php:207
+#@ speakstaffSatellit
+msgid "Artikel vorlesen lassen"
+msgstr ""
+
+#: speakstaff-player.php:150
+#: speakstaff-player.php:210
+#@ speakstaffSatellit
+msgid "Zu SpeakStaff.com"
+msgstr ""
+
+#: speakstaff-player.php:153
+#: speakstaff-player.php:213
+#@ speakstaffSatellit
+msgid "Scan&Go:"
+msgstr ""
+
+#: speakstaff-player.php:154
+#: speakstaff-player.php:214
+#@ speakstaffSatellit
+msgid "Scan&Go: Scanne den Audio-Beitrag mit einem QR-Scanner und nimm ihn unterwegs zum Hören mit! Mehr Infos..."
+msgstr ""
+
+#: speakstaff-player.php:57
+#@ speakstaffSatellit
+msgid "Integrate SpeakStaff Player"
+msgstr "SpeakStaff Player integrieren"
+
+#: speakstaff-player.php:59
+#@ speakstaffSatellit
+msgid "Close"
+msgstr "Schließen"
+
+#: speakstaff-player.php:60
+#@ speakstaffSatellit
+msgid "Generate Shortcode"
+msgstr "Shortcode erstellen"
+
+#: speakstaff-player.php:61
+#@ speakstaffSatellit
+msgid "Paste your SpeakStaff Player ID here:"
+msgstr "Setze hier die erhaltene SpeakStaff Player ID ein:"
+
+#: speakstaff-player.php:63
+#@ speakstaffSatellit
+msgid "Advanced settings"
+msgstr "Mehr Einstellungen"
+
+#: speakstaff-player.php:64
+#@ speakstaffSatellit
+msgid "Player Width:"
+msgstr "Breite Player:"
+
+#: speakstaff-player.php:65
+#@ speakstaffSatellit
+msgid "Autoplay?"
+msgstr "Autoplay?"
+
+#: speakstaff-player.php:66
+#@ speakstaffSatellit
+msgid "Yes"
+msgstr "Ja"
+
+#: speakstaff-player.php:67
+#@ speakstaffSatellit
+msgid "No"
+msgstr "Nein"
+
